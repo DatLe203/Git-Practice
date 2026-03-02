@@ -1,3 +1,2 @@
 # Git-Practice
-hello world
-hello, its me again
+hello lai la ka day
